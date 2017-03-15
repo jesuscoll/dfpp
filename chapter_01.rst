@@ -34,7 +34,7 @@ Next, we need to create a Django project and a Django app:
 
     django-admin startproject my_first_django_project
     cd my_first_django_project
-    python manage.py startapp hello
+    python manage.py startproject hello
 
 We now have a project named ``my_first_django_project`` and an app
 named ``hello``. The concept of a Django app is a big discussion which
